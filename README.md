@@ -1,1 +1,2 @@
 # techtricks
+my first repository!
