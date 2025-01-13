@@ -1,3 +1,3 @@
 # my-first-repository
-my first feature branch looks good!
+My first feature branch looks good
 
